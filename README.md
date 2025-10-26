@@ -1,5 +1,4 @@
 # wg.cheatsheets
-# wg.cheatsheets
 
 Quick links:
 - [Cluster Commands →](./cluster/README.md) - TMUX, UV, SLURM
